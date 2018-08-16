@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\opencvstu\solvePNP\GitHub\testMode\build\CMakeFiles\b21e8e714f84382c60a9ef0ea79869ef\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D15E872-D21C-3635-8E89-73424BAA338F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

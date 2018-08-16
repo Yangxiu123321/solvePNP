@@ -1,0 +1,3 @@
+E:/opencvstu/solvePNP/GitHub/testMode/build/CMakeFiles/SolvePNP.dir
+E:/opencvstu/solvePNP/GitHub/testMode/build/CMakeFiles/ALL_BUILD.dir
+E:/opencvstu/solvePNP/GitHub/testMode/build/CMakeFiles/ZERO_CHECK.dir
