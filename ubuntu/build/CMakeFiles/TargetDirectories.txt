@@ -1,0 +1,3 @@
+/home/mod/桌面/solvePNP/solvePNP/ubuntu/build/CMakeFiles/rebuild_cache.dir
+/home/mod/桌面/solvePNP/solvePNP/ubuntu/build/CMakeFiles/aprilTag.dir
+/home/mod/桌面/solvePNP/solvePNP/ubuntu/build/CMakeFiles/edit_cache.dir
